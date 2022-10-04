@@ -1,1 +1,1 @@
-#Параметризация в PyTest by Writer42
+# Параметризация в PyTest by Writer42
